@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"06e0876828f061ec","x":-525,"y":1328,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bd707bdb69879e08","type":"file","file":"docs/index.md","x":-680,"y":-520,"width":400,"height":400},
+		{"id":"7b1c3896abf9e383","type":"file","file":"docs/about.md","x":40,"y":-520,"width":400,"height":400},
+		{"id":"76ef8bd8cb865368","type":"file","file":"docs/testing-an-app.md","x":-680,"y":120,"width":400,"height":400},
+		{"id":"e1e50c2c7fc9becb","type":"file","file":"docs/quotes-app.md","x":0,"y":720,"width":400,"height":400},
+		{"id":"8739019101cbc50b","x":760,"y":720,"width":400,"height":400,"type":"file","file":"docs/realtor-app.md"},
+		{"id":"ff6ce657d0d5fb4b","type":"file","file":"docs/index 1.md","x":360,"y":160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b150db7858f79b7b","fromNode":"bd707bdb69879e08","fromSide":"right","toNode":"7b1c3896abf9e383","toSide":"left"},
+		{"id":"6d22e7dc3d838108","fromNode":"bd707bdb69879e08","fromSide":"bottom","toNode":"76ef8bd8cb865368","toSide":"top"},
+		{"id":"8d896e4606d189d3","fromNode":"ff6ce657d0d5fb4b","fromSide":"bottom","toNode":"e1e50c2c7fc9becb","toSide":"top"},
+		{"id":"0bf2f75d16929702","fromNode":"ff6ce657d0d5fb4b","fromSide":"bottom","toNode":"8739019101cbc50b","toSide":"top"}
+	]
+}

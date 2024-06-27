@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Bio
-layout: page
+layout: home
 ---
 
 ## I help businesses efficiently deliver world-class software

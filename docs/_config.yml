@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mark Wiltberger
-email: mark.wiltberger@gmail.com
+title: Mark Wiltberger | Software Engineer
+tagline: Web Application Developer
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Coding portfolio site for Mark Wiltberger. I am a software engineer
   currently working on web applications.
@@ -36,6 +37,10 @@ linkedin_username: MarkWiltberger
 theme: minima
 plugins:
   - jekyll-feed
+
+# Set Navigation Menu
+header_pages:
+  - pages/realtor-app.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

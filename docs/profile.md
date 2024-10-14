@@ -2,7 +2,7 @@
 layout: page
 title: Profile
 permalink: /profile/
-published: false
+published: true
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css">
 

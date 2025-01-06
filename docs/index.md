@@ -10,6 +10,15 @@ layout: home
 
 I help businesses by developing scalable, maintainable software, using Agile practices for effective communication and collaboration with colleagues and stakeholders, in order to efficiently deliver world-class software.
 
+
+## Bio
+I have a varied history.  
+I have done a lot of things.  
+I have always used technology.  
+I have helped businesses with technology.  
+
+
+
 ## Realtor App REST API Project
 
 [**_Realtor App_**](/pages/realtor-app) is a web application which allows you to search and post realty listings.

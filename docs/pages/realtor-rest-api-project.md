@@ -4,6 +4,9 @@ layout: page
 ---
 ---
 
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
+
 ## Project Overview
 
 **Brief Description:**  
@@ -29,13 +32,23 @@ The app allows a user to make http requests for a set of endpoints related to qu
 
 **High-Level Architecture Diagram:**
 - Diagram of the frontend, backend, and database layers
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
 - Diagram of the controllers and services of the API
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
 - The architecture is based in the Nest.js architecture
 
 **Component Breakdown:**
 - Overview of major components and their roles within the application.
 - Diagram of the modules of the API
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
 - Diagram of specific module controllers and services (providers)
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
 - Diagram of the data model (schema)    
+<br />  
+<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
     
 ---

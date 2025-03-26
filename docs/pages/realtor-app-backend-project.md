@@ -7,25 +7,28 @@ layout: page
 <br />  
 <div  style="text-align: center;"><img src="/assets/realtor-app-concept.png"  alt="Realtor App concept" style="width: 480px; height: auto;"></div>
 
-## Call to Action
+## Quick Links
 
-- **[GitHub Repository](http://localhost/){:target="_blank"}:** See the code at the GitHub repository
-- **[Application Walkthrough]():** See a walkthrough of the application
-- **[Application Demo](){:target="_blank"}:** Try the application out on Postman
+- **GitHub Repository:** See the code at the GitHub repository [**here**](https://github.com/MarkWiltberger/vue-nest-web-app__realtor-app){:target="_blank"}.
 
-<!--
-<div style="font-family: sohne, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;   border: 2px solid #000000;
-      border-radius: 15px;
-      padding: 20px;
-      width: 200px;
-      height: 100px;
-      text-align: center;">GitHub Repository</div>
--->
+
+- **Application Demo:** Try out the application using Postman [**here**](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/overview){:target="_blank"}.
+
+
+- **Application Documentation:** See the API documentation on Postman [**here**](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/documentation/gu1pgpa/realtor-app-online){:target="_blank"}.
+
+<br>
+
+---
 
 ## Project Overview
 
 **Brief Description:**  
-The app allows a user to make http requests for a set of endpoints related to querying available realty properties. The user can request a full list of available properties. The user can also filter the list of properties based on the various attributes of the properties, such as price, city, and property type. Users with a REALTOR role can create, update, and delete realty listings. Users can message the realtor for the property with inquiries.
+The app allows a user to make http requests for a set of endpoints related to querying available realty properties.
+- The user can request a full list of available properties.
+- The user can also filter the list of properties based on the various attributes of the properties, such as price, city, and property type.
+- Users with a REALTOR role can create, update, and delete realty listings.
+- Users can message the realtor for the property with inquiries.
 
 **Technology Stack:**
 - **Frontend:** directory reserved for building a Vue.js frontend
@@ -48,22 +51,22 @@ The app allows a user to make http requests for a set of endpoints related to qu
 **High-Level Architecture Diagram:**
 - Diagram of the frontend, backend, and database layers
 <br />  
-<div  style="text-align: center;"><img src="/assets/tech-stack-diagram.png"  alt="Graphics Placeholder" style="width: 480px; height: auto;" /></div>
-- Diagram of the controllers and services of the API
-<br />  
-<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
-- The architecture is based in the Nest.js architecture
+<div  style="text-align: center;"><a href="/assets/tech-stack-diagram.png"><img src="/assets/tech-stack-diagram.png"  alt="Tech Stack Diagram" style="width: 480px; height: auto;" /></a></div>
 
-**Component Breakdown:**
-- Overview of major components and their roles within the application.
-- Diagram of the modules of the API
-<br />  
-<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
-- Diagram of specific module controllers and services (providers)
-<br />  
-<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
-- Diagram of the data model (schema)    
-<br />  
-<div  style="text-align: center;"><img src="/assets/graphics-placeholder.png"  alt="Graphics Placeholder" style="width: 300px; height: auto;" /></div>
-    
+
 ---
+
+## Using/Operation
+
+**Using within Postman:**
+<br>
+<div  style="text-align: center;"><a href="/assets/postman-getHomes-screenshot.png"><img src="/assets/postman-getHomes-screenshot.png"  alt="Postman get homes screenshot" style="width: 600px; height: auto;" /></a></div>
+<br>
+The application may be tested using Postman. Above is an example of a request to get a listing of all homes.
+<br>
+
+**Using within JavaScript**
+
+<div  style="text-align: center;"><a href="/assets/javascript-get-homes-screenshot.png"><img src="/assets/javascript-get-homes-screenshot.png"  alt="JavaScript get homes screenshot" style="width: 600px; height: auto;" /></a></div>
+<br>
+

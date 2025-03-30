@@ -10,3 +10,7 @@ temp.import
 /docs/assets.drafts
 temp.draft
 temp.original
+
+document-workflow
+/docs/staging
+design

@@ -6,10 +6,11 @@ title: Mark Wiltberger | Software Engineer
 layout: home
 ---
 
-## I help businesses efficiently deliver world-class software
 
-I help businesses by developing scalable, maintainable software, using Agile practices for effective communication and collaboration with colleagues and stakeholders, in order to efficiently deliver world-class software.
+Hello! My name is Mark. I'm a software engineer.
 
-## Realtor App REST API Project
+This website showcases a web application project. Please feel free to contact me at <a href="mailto:mark.wiltberger@gmail.com">mark.wiltberger@gmail.com</a>.
 
-[**_Realtor App_**](/pages/realtor-app) is a web application which allows you to search and post realty listings.
+<div style="display: flex; justify-content: center; align-items: center;"> <span style="font-weight: bold;"><a href="pages/project">Project</a></span> </div>
+
+

@@ -9,13 +9,9 @@ layout: page
 
 ## Quick Links
 
-- **GitHub Repository:** See the code at the GitHub repository [**here**](https://github.com/MarkWiltberger/vue-nest-web-app__realtor-app){:target="_blank"}.
-
-
-- **Application Demo:** Try out the application using Postman [**here**](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/overview){:target="_blank"}.
-
-
-- **Application Documentation:** See the API documentation on Postman [**here**](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/documentation/gu1pgpa/realtor-app-online){:target="_blank"}.
+- **[GitHub Repository](https://github.com/MarkWiltberger/vue-nest-web-app__realtor-app){:target="_blank"}:** See the code at the GitHub repository.
+- **[Application Documentation](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/documentation/gu1pgpa/realtor-app-online){:target="_blank"}:** See the API documentation on Postman.
+- **[Application Demo](https://www.postman.com/science-meteorologist-84254413/realtor-app-online/overview){:target="_blank"}:** Try out the application using Postman.
 
 <br>
 
@@ -60,7 +56,7 @@ The app is a REST API built in the Node.js framework Nest.js, which queries and 
 **High-Level Architecture Diagram:**
 - The backend application is part of a three-layer stack consisting of a web application frontend, the backend, and a Postgres database:
 <br />  
-<div  style="text-align: center;"><a href="/assets/tech-stack-diagram.png"><img src="/assets/tech-stack-diagram.png"  alt="Tech Stack Diagram" style="width: 480px; height: auto;" /></a></div>
+<div  style="text-align: center;"><a href="/assets/tech-stack-diagram.png"><img src="/assets/tech-stack-diagram.png"  alt="Tech Stack Diagram" style="width: 480px; height: auto;" /></a></div><br>
 
 
 ---
